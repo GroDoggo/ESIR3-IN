@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "dee454c257fe7a27",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fe96e43b13bbf5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f22d9fe8c8a020d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vision Robotique/Point Cloud registration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17c5eaa44c71baaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a3aa7b6a7da5481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f798103e92ea0c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70ec73460a8a1e1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11d82e56b00ef1f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9de10c1e30535df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "de4986134d08830f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "214f68ae73eaa163",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vision Robotique/Point Cloud registration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cd6b37a19c67aae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vision Robotique/Point Cloud registration.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "693c3bfe4a2edcd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "892ee09eb6e16290",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vision Robotique/Point Cloud registration.md"
+              }
+            }
+          },
+          {
+            "id": "c077cfcd83c2a508",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1079a55038e0a29f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 433.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0f22d9fe8c8a020d",
+  "lastOpenFiles": [
+    "IMED2/Projets.md",
+    "Vision Robotique/Point Cloud registration.md",
+    "Deep Learning for Vision/Neural Video Compression using GANs for Detail Synthesis and Propagation.md",
+    "IMED2/Asservissement visuel en imagerie ultrasonore.md",
+    "Projet Indus/README.md",
+    "IMED2/Correction CC.md",
+    "Imagerie Médicale/NeuroFeedback et Brain Computer Interface.md",
+    "Imagerie Médicale/Partie 4 - Recalage.md",
+    "Imagerie Médicale/Partie 3 - Segmentation.md",
+    "Imagerie Médicale/Partie 2 - Formation, Reconstruction.md",
+    "Imagerie Médicale/Partie 1 - Introduction.md",
+    "Projet Indus/IMG2VID.md",
+    "Projet Indus/documentation/eight.png",
+    "Projet Indus/documentation/seven.png",
+    "Projet Indus/documentation/six.png",
+    "Projet Indus/documentation/five.png",
+    "Projet Indus/documentation/four.png",
+    "Projet Indus/documentation/three.png",
+    "Projet Indus/documentation/two.png",
+    "Projet Indus/documentation/one.png",
+    "Projet Indus/data",
+    "Sans titre.md",
+    "Projet Indus/Compression d'image algorithmes et standards.md",
+    "Projet Indus/documentation",
+    "Deep Learning for Vision/Lecture de papier.md",
+    "Projet Indus/Reunion 10-01.md",
+    "Projet Indus/Config.md",
+    "Deep Learning for Vision/data/Pasted image 20240110110345.png",
+    "Deep Learning for Vision/data/Pasted image 20240110110322.png",
+    "Compression Image - Vidéo/CM2.md",
+    "Animation Avancée/Motion planning.md",
+    "Deep Learning for Vision/Generative models.md",
+    "MGT Droit du travail/TD1.md",
+    "MGT Droit du travail",
+    "Compression Image - Vidéo/data",
+    "Animation Avancée/Search algorithms.md",
+    "Animation Avancée/Shedule.md",
+    "Compression Image - Vidéo/CM1.md",
+    "Vision Robotique/Visual Servoing.md",
+    "Management/Interview.md",
+    "Animation Avancée/data",
+    "Imagerie Médicale/data",
+    "Vision Robotique/data",
+    "Deep Learning for Vision/data",
+    "IMED2/data",
+    "IMED2",
+    "Sans titre.canvas"
+  ]
+}

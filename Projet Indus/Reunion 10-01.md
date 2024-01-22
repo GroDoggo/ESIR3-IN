@@ -1,0 +1,26 @@
+- Rappel reunion précédente (17/11)
+	- Analyse de l'arbre de fichier
+	- Benchmark des configuration possible (H264)
+		- Necessaire de compresser avec perte
+		- Utilisation d'un score de qualité (VMAF)
+- Benchmark avec un deuxième standard populaire (H265)
+	- Peu voir zero gain comparé à H264 (qualité et taux)
+	- Beaucoup plus lent que H264
+- Compression automatique dans le programme après l'analyse de l'arbre de fichier
+- Docker
+	- Containerization du projet pour Docker
+	- Adaptation pour ajouter des fichier des configuration
+		- 3 par défaut modifiable librement
+		- En fonction du profil de la tache a effectuer
+	- Impossible d'emuler le serveur Debian (pour un meilleur test)
+	- LXD (compatible windows?)
+- Journalisation
+	- Affichage sur la console
+		- Séquence d'image en cours de traitement
+		- Progression totale
+		- Taux de compression et espace total gagné
+	- Création d'un fichier de log
+- Rapport et rendu
+	- Rapport écrit en cours de finalisation
+	- Affiche terminée (hall de l'ESIR)
+	- Présentation orale en cours
