@@ -21,4 +21,17 @@ La petite étoile signifie que l'algo utilise une heuristique
 ![[Pasted image 20231211084415.png]]
 ## IDA* algorithm
 Variante de A*
+Boucle avec plusieurs limite de profondeur
 ![[Pasted image 20231211091614.png]]![[Pasted image 20231211091631.png]]
+Plus lent que A*
+Possibilité d'amléioration :
+- Eviter de reboucler sur un nœud déjà exploré
+- Utiliser un cache pour sauvegarder le meilleur chemin dans certaines configuration
+## Heuristique
+### Grille
+![[Pasted image 20240123100654.png]]
+![[Pasted image 20240123100707.png]]
+### Espace continu
+![[Pasted image 20240123100723.png]]
+## Comparaison des algorithmes
+![[Pasted image 20240123100834.png]]

@@ -1,3 +1,4 @@
+Maude Marchal (RAIMBOW)
 robot = movement
 ## Introduction
 ### Les robots

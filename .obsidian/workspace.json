@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fe96e43b13bbf5e",
+        "id": "95593cd6d4cd03b6",
         "type": "tabs",
         "children": [
           {
-            "id": "0f22d9fe8c8a020d",
+            "id": "b295ed3f1a3204da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vision Robotique/Point Cloud registration.md",
+                "file": "Animation Avancée/Mouvement de groupe.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9de10c1e30535df5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision Robotique/Point Cloud registration.md",
+                "file": "Animation Avancée/Mouvement de groupe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vision Robotique/Point Cloud registration.md",
+                "file": "Animation Avancée/Mouvement de groupe.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vision Robotique/Point Cloud registration.md"
+                "file": "Animation Avancée/Mouvement de groupe.md"
               }
             }
           },
@@ -163,10 +164,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f22d9fe8c8a020d",
+  "active": "b295ed3f1a3204da",
   "lastOpenFiles": [
+    "Animation Avancée/data/Pasted image 20240125162757.png",
+    "Animation Avancée/data/Pasted image 20240125162746.png",
+    "Animation Avancée/data/Pasted image 20240125162731.png",
+    "Animation Avancée/data/Pasted image 20240125162729.png",
+    "Animation Avancée/data/Pasted image 20240125162727.png",
+    "Animation Avancée/data/Pasted image 20240125155411.png",
+    "Animation Avancée/data/Pasted image 20240125155402.png",
+    "Animation Avancée/data/Pasted image 20240125155237.png",
+    "Animation Avancée/data/Pasted image 20240125154942.png",
+    "Animation Avancée/data/Pasted image 20240125154604.png",
+    "Animation Avancée/data/Pasted image 20240125153911.png",
+    "Compression Image - Vidéo/CM3.md",
+    "Deep Learning for Vision/TD1.md",
+    "Animation Avancée/Motion planning.md",
+    "Animation Avancée/Search algorithms.md",
+    "Vision Robotique/Tracking and localization.md",
+    "Vision Robotique/CM1.md",
+    "Vision Robotique/EigenFaces.md",
+    "Animation Avancée/Mouvement de groupe.md",
     "IMED2/Projets.md",
-    "Vision Robotique/Point Cloud registration.md",
+    "Compression Image - Vidéo/CM2.md",
     "Deep Learning for Vision/Neural Video Compression using GANs for Detail Synthesis and Propagation.md",
     "IMED2/Asservissement visuel en imagerie ultrasonore.md",
     "Projet Indus/README.md",
@@ -177,14 +197,6 @@
     "Imagerie Médicale/Partie 2 - Formation, Reconstruction.md",
     "Imagerie Médicale/Partie 1 - Introduction.md",
     "Projet Indus/IMG2VID.md",
-    "Projet Indus/documentation/eight.png",
-    "Projet Indus/documentation/seven.png",
-    "Projet Indus/documentation/six.png",
-    "Projet Indus/documentation/five.png",
-    "Projet Indus/documentation/four.png",
-    "Projet Indus/documentation/three.png",
-    "Projet Indus/documentation/two.png",
-    "Projet Indus/documentation/one.png",
     "Projet Indus/data",
     "Sans titre.md",
     "Projet Indus/Compression d'image algorithmes et standards.md",
@@ -192,19 +204,8 @@
     "Deep Learning for Vision/Lecture de papier.md",
     "Projet Indus/Reunion 10-01.md",
     "Projet Indus/Config.md",
-    "Deep Learning for Vision/data/Pasted image 20240110110345.png",
-    "Deep Learning for Vision/data/Pasted image 20240110110322.png",
-    "Compression Image - Vidéo/CM2.md",
-    "Animation Avancée/Motion planning.md",
-    "Deep Learning for Vision/Generative models.md",
-    "MGT Droit du travail/TD1.md",
     "MGT Droit du travail",
     "Compression Image - Vidéo/data",
-    "Animation Avancée/Search algorithms.md",
-    "Animation Avancée/Shedule.md",
-    "Compression Image - Vidéo/CM1.md",
-    "Vision Robotique/Visual Servoing.md",
-    "Management/Interview.md",
     "Animation Avancée/data",
     "Imagerie Médicale/data",
     "Vision Robotique/data",
